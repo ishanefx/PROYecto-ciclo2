@@ -1,0 +1,12 @@
+ATLANTIC CITY - REDISEÑO DE DEMOSTRACIÓN
+1. Abre index.html en el navegador.
+2. Crea una cuenta en "Crear cuenta"; luego podrás iniciar sesión con el mismo correo y contraseña.
+3. Usa el logo original dentro de la carpeta imagenes.
+4. Bootstrap 5.3.3 se carga desde CDN, por lo que necesitas internet para que aparezcan sus estilos.
+
+IMPORTANTE:
+Esta es una maqueta académica de frontend. El registro usa localStorage y no es seguro para usuarios reales:
+- no almacena contraseñas de forma segura;
+- los datos solo existen en ese navegador/dispositivo;
+- no implementa backend, pagos, apuestas ni juegos reales.
+Para un servicio real se necesita backend, base de datos, autenticación segura y revisión legal correspondiente.
